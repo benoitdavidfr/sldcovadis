@@ -3,7 +3,7 @@
   <NamedLayer>
     <se:Name>N_DOCUMENT_PPRN_S_ddd</se:Name>
     <UserStyle>
-      <se:Name>N_PERIMETRE_PPRN_20030002_S_071</se:Name>
+      <se:Name>N_PERIMETRE_PPRN_20030002_S_ddd</se:Name>
       <se:FeatureTypeStyle>
         <se:Rule>
           <se:Name>Single symbol</se:Name>
